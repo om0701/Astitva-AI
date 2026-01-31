@@ -2,6 +2,10 @@
 
 AI-powered photo authenticity checker that detects deepfakes and AI-generated images.
 
+#Problem Statement
+
+With the rise of AI-generated images and deepfakes, it has become increasingly difficult for users to verify the authenticity of online media. This creates opportunities for misinformation, fraud, and loss of digital trust. Astitva AI aims to provide a simple and accessible solution for detecting manipulated and AI-generated images.
+
 ## Overview
 
 Astitva AI is a full-stack application that allows users to:
