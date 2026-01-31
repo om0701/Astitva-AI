@@ -234,4 +234,4 @@ MIT License
 
 ---
 
-Built with ❤️ for detecting deepfakes and protecting digital authenticity.
+Built for detecting deepfakes and protecting digital authenticity.
