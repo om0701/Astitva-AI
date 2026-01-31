@@ -1,3 +1,7 @@
+## PROJECT DEPLOYED LINK
+https://astitva-ai.vercel.app
+
+
 # Astitva AI
 
 AI-powered photo authenticity checker that detects deepfakes and AI-generated images.
