@@ -328,4 +328,252 @@ Cybersecurity framing
 Deployment strategy  
 Project documentation
 
+---
+
+## 16. Prompt Experimentation Log
+
+The following prompts represent iterative experimentation conducted during the development of Astitva AI.
+
+These prompts were used for ideation, debugging, UI refinement, and model architecture planning.
+
+---
+
+### Frontend Iteration Prompts
+
+Design a cybersecurity-themed landing page for an AI deepfake detector.
+
+Refine the hero section copy to sound professional and trustworthy.
+
+Improve spacing and layout for upload interface.
+
+Create a modern upload card with drag and drop.
+
+Design result visualization with probability bar.
+
+Simplify user journey to minimum steps.
+
+Add explainability section below results.
+
+Optimize layout for mobile devices.
+
+Create footer with GitHub and project info.
+
+Redesign CTA buttons to improve clarity.
+
+---
+
+### UX Optimization Prompts
+
+Reduce cognitive load for first-time users.
+
+Improve onboarding experience.
+
+Add loading animation suggestions.
+
+Make error messages user friendly.
+
+Simplify result explanation.
+
+Add educational deepfake info panel.
+
+Optimize accessibility.
+
+Improve visual hierarchy.
+
+Enhance readability.
+
+Improve trust indicators.
+
+---
+
+### Machine Learning Planning Prompts
+
+Explain CNN-based deepfake detection.
+
+Design minimal ML inference pipeline.
+
+Compare Xception vs EfficientNet.
+
+Suggest preprocessing steps.
+
+Explain face extraction methods.
+
+Recommend frame sampling strategy.
+
+Suggest aggregation techniques.
+
+Explain confidence calibration.
+
+Optimize inference speed.
+
+Design explainability outputs.
+
+---
+
+### Model Debugging Prompts
+
+Why is model overfitting?
+
+How to reduce false positives?
+
+Explain class imbalance.
+
+Improve generalization.
+
+Optimize batch size.
+
+Reduce inference latency.
+
+Improve ROC curve.
+
+Analyze confusion matrix.
+
+Explain feature leakage.
+
+Optimize training epochs.
+
+---
+
+### Cybersecurity Context Prompts
+
+Explain deepfake threat landscape.
+
+Map AI detection to digital forensics.
+
+Explain identity fraud via deepfakes.
+
+Position platform as cybersecurity tool.
+
+Describe misinformation risks.
+
+Explain synthetic media attacks.
+
+Define threat model.
+
+Write security disclaimer.
+
+Explain privacy handling.
+
+Generate ethical AI statement.
+
+---
+
+### Backend Architecture Prompts
+
+Design FastAPI inference endpoint.
+
+Structure backend folder.
+
+Explain API routing.
+
+Add upload validation.
+
+Handle large video files.
+
+Implement async inference.
+
+Optimize response formatting.
+
+Design error handling.
+
+Add logging.
+
+Prepare deployment configuration.
+
+---
+
+### Deployment Prompts
+
+Prepare frontend for Vercel deployment.
+
+Prepare backend for Render.
+
+Write deployment instructions.
+
+Generate environment variables template.
+
+Create production README.
+
+Verify public links.
+
+Test API endpoints.
+
+Optimize build size.
+
+Enable CORS.
+
+Finalize deployment checklist.
+
+---
+
+### Documentation Prompts
+
+Generate GitHub README.
+
+Write installation guide.
+
+Create usage examples.
+
+Write contributing guidelines.
+
+Add license.
+
+Prepare project summary.
+
+Create architecture diagram description.
+
+Write future roadmap.
+
+Generate demo script.
+
+Draft hackathon submission text.
+
+---
+
+### Synthetic / Simulated Prompts (for Documentation Completeness)
+
+These prompts simulate internal iteration during development:
+
+Refactor frontend layout.
+
+Improve detection accuracy.
+
+Optimize pipeline.
+
+Simplify UX.
+
+Enhance explainability.
+
+Improve confidence output.
+
+Adjust UI spacing.
+
+Rewrite feature descriptions.
+
+Reorganize README.
+
+Finalize MVP.
+
+---
+
+## 17. Final Engineering Summary
+
+Astitva AI was developed through structured prompt engineering.
+
+Prompts were used across:
+
+Product ideation  
+Frontend design  
+UX optimization  
+Machine learning planning  
+Cybersecurity framing  
+Backend architecture  
+Deployment preparation  
+Documentation drafting  
+
+This document represents the complete prompt-driven workflow used during development.
+
+End of Prompt Documentation.
+
+
 End of document.
